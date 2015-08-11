@@ -1,5 +1,5 @@
 # nunit-testcaseattribute-externaldata
-Ever wandered if your could somehow reliably know the name of the executing test, decorated with TestCaseSourceAttribute. Here's how to do it in .NET 4.5+
+Ever wondered if your could somehow reliably know the name of the executing test, decorated with TestCaseSourceAttribute. Here's how to do it in .NET 4.5+
 
 
 The sample JsonTestCaseSource even supports setting up, a template TestData, so that some properties for tests you just put inot the template.json file, and the outcome JSON is a product of merging the template and the test specific data.
