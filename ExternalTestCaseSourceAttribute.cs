@@ -10,7 +10,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tsa.automation.sts2015.common
+namespace NunitTestCaseSourceExternal
 {
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = false)]
     public class ExternalTestCaseSourceAttribute : TestCaseSourceAttribute
